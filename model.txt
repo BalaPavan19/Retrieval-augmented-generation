@@ -1,1 +1,4 @@
+# RAG 1 
 https://drive.google.com/drive/folders/1mx1-QXy6YopHINSHRQn9jJMSiTQC-kNs
+# RAG 2
+https://colab.research.google.com/drive/1FsP0Z395jWsOzJUfQ7zrleLGO8AxEkUD?usp=sharing
